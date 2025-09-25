@@ -1,2 +1,2 @@
  # brainstorming-app
- tjis is brainstorming app using react js
+ this is brainstorming app using react js
